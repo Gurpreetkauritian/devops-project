@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#0077cc;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+header h1{
+    font-size:50px;
+}
+
+section{
+    padding:40px;
+}
+
+h2{
+    color:#0077cc;
+}
+
+.card-container{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    width:250px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.workflow ol{
+    line-height:2;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
