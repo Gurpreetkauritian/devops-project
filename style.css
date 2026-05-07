@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin:0;
     font-family:Arial;
@@ -47,4 +48,23 @@ footer{
     color:white;
     text-align:center;
     padding:15px;
+=======
+body{
+    background:#f4f4f4;
+    font-family:Arial;
+}
+
+.container{
+    text-align:center;
+    margin-top:150px;
+}
+
+h1{
+    color:blue;
+    font-size:50px;
+}
+
+p{
+    font-size:25px;
+>>>>>>> dc1a6f00b1706184e98edac3d6c555cc06677cdc
 }
